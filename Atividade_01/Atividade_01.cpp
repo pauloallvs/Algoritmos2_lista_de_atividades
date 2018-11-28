@@ -13,7 +13,6 @@ int leitura()
 	return num;
 
 }
-
 int calculoAnos(int num)
 {
 	int anos;
